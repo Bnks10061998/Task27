@@ -8,17 +8,15 @@
 
 ### (https://documenter.getpostman.com/view/14490009/2sAXjQ1VGs) ###
 
-### Create Student - http://localhost:3000/student ###
+### Create Student - https://task27.onrender.com/student ###
 
-### Create Mentor - http://localhost:3000/mentor ###
+### Create Mentor - https://task27.onrender.com/mentor ###
 
-### Mentor ID - http://localhost:3000/mentor/66d82ec562e445890eb9c5d0 ###
+### Mentor ID - https://task27.onrender.com/mentor/66d82ec562e445890eb9c5d0 ###
 
-### user Booked - https://task26.onrender.com/customer/Raja ###
+### Assign New Mentor - https://task27.onrender.com/assignmentor/newMentor ###
 
-### Creating  rooms - https://task26.onrender.com/rooms/create ###
-
-### Booking  rooms - https://task26.onrender.com/createbooking/A002 ###
+### Change the Mentor - https://task27.onrender.com/modifymentor ###
 
    
 
